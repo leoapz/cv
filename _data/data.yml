@@ -8,10 +8,11 @@ sidebar:
 
     # Profile information
     name: Leo Apaza
-    tagline: QA Tester
+    tagline: Mobile Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    country: Tucumán, Argentina
     email: leoapaza2@gmail.com
     phone: 381 4740275
     #website: blog.webjeda.com #do not add http://
@@ -45,11 +46,8 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Soy Ingeniero en Sistemas de Información y Analista Universitario en Sistemas.
-      Lleve a cabo diversas tareas en mi carrera profesional, formo parte del equipo de desarrollo 
-      en la Dirección de Proyectos Informáticos (DPI) y del equipo de QA en Practia.
-      Soy realmente un apasionado de mi trabajo, siempre buscando la mejora continua, tanto
-      personal como profesional.
+      Ingeniero en Sistemas de Información y Analista Universitario en Sistemas con muchas ganas de incorporarme como Desarrollador Mobile en una empresa donde pueda aprender y crecer profesionalmente. 
+      Soy un persona entusiasta, autodidacta y comprometida con mis tareas.
 
 education:
     title: Formación Académica
@@ -70,44 +68,36 @@ experiences:
         time: 2018 - Actualidad
         company: Practia, Argentina
         details: |
-          Servicio de Testing y QA
-          - Diseño y ejecución de Casos de Pruebas
-          - Reporte y seguimiento de incidencias
-          - Herramientas utilizadas: Jira, Trello, TFS, TestManager
-          
-          Automatización
-          - Diseño y ejecución de Casos de Pruebas para pruebas de regresiones
-          - Reporte y seguimiento de incidencias
-          - Testing de APIs: Postman, SoapUI
-          - Herramientas: UFT, Robot Framework
+          Automatización: Diseño y ejecución de Casos de Pruebas para Regresiones. Smoke Test. Testing de WS y APIs con SoapUI y Postman.
       
       - role: Programador
         time: 2016 - 2020
         company: Dirección Proyectos Informáticos (DPI), Argentina
         details: |
-          - Programación de backend y frontend del sistema
-          - backend: Laravel
-          - Frontend: Angular JS, React JS
-          - Base de datos: PostgreSQL
+          Programación de backend y frontend del sistema. Backend: Laravel. Frontend: Angular JS, React JS. 
+          Base de datos: PostgreSQL.
 
 projects:
     title: Proyectos
-    intro: >
-      Listado de proyectos y repositorios
+    intro:
+      Listado de proyectos realizados
     assignments:
       - title: FarmaTuc
         link: "https://play.google.com/store/apps/details?id=com.hp.farmatuc.presentation&hl=es"
-        tagline: "Proyecto realizado en Java con Android Studio"
+        tagline: "Proyecto Android realizado con Java en Android Studio"
 
 skills:
     title: Habilidades &amp; Capacidades
 
     toolset:
-      - name: Postman, SoapUI
-        level: 95%
+      - name: Android
+        level: 65%
 
-      - name: Robot Framework
-        level: 85%
+      - name: Java
+        level: 60%
+
+      - name: Kotlin
+        level: 40%
 
       - name: GIT
         level: 98%
@@ -115,11 +105,9 @@ skills:
       - name: SQL
         level: 98%
 
-      - name: Laravel
+      - name: Laravel PHP
         level: 98%
 
       - name: React JS
         level: 60%
 
-      - name: Android
-        level: 60%
